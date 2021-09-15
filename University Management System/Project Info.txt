@@ -1,0 +1,16 @@
+// Students
+- See full name, student ID and grade.
+- Check tuition (paid/owed).
+- Make a payment.
+
+// Professors
+- See full name, professor ID and Salary.
+- See name of course.
+- See Students list
+
+// University
+- See Student and Professor lists
+- see total tuition paid
+- see all costs (salaries) that need to be paid
+
+
