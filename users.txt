@@ -1,0 +1,17 @@
+S1,Andrija Stankovic,1,password,9500
+S2,Romario Stankovic,1,rstankovic,8500
+S3,Nikola Zoric,1,dzoni,3000
+S4,Strahinja Kolasinac,1,fennec999,2500
+S5,Luka Smiljanic,1,geng0213,1050
+S6,Aleksandar Gengo,1,abc12345,1600
+S7,Petar Dimic,3,pera,9510
+S8,Jovana Stula,4,joja,7800
+S9,Maria Miljkovic,3,ciki,950
+S10,Nataša Dinić,1,pass577,4520
+S11,Jovan Miljkovic,1,1jovi3,1250
+S12,Jovana Mitrovic,1,jovana2611,6500
+P1,Eva Tuba,pass,3500,Object Oriented Programming
+P2,Nikola Savanovic,pass2,1300,Web Design
+P3,Timea Bezdan,pass3,1500,Math
+P4,Miodrag Zivkovic,pass4,2100,Web Programming
+U1,Admin
